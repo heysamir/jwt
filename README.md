@@ -1,1 +1,1 @@
-# jwt
+# jwt structure
